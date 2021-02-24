@@ -155,6 +155,8 @@ ___________________
 Reqiurements:
 --------------------
 - Python3
+- colorama==0.4.3
+- numpy==1.18.1
 
 For mac:
 ```
