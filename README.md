@@ -1,4 +1,4 @@
-# DASS assignment - 2
+# DX-BALL
 # Terminal based game on OOPS concept
 ## explanation
 
