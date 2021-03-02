@@ -170,4 +170,5 @@ sudo apt-get install python3
 
 Contributions: 
 ---------------------
-Both developers and non-developers are invited to contribute to this project by adding a PR. If genuine, the changes would be approved and added to the master branch.
+Both developers and non-developers are invited to contribute to this project by adding a PR. If genuine, the changes would be approved and added to the master branch.<br>
+As of now, according to the problem statement a powerup(ball multiplier) is left, also you can contribute anything you like to do.
