@@ -172,3 +172,10 @@ Contributions:
 ---------------------
 Both developers and non-developers are invited to contribute to this project by adding a PR. If genuine, the changes would be approved and added to the master branch.<br>
 As of now, according to the problem statement a powerup(ball multiplier) is left, also you can contribute anything you like to do.
+
+### can work on:
+* ball-multiplier powerup
+* exploding bricks can't have more than 1 group 
+* side collision with bricks (using trajectory of ball)
+* increment of speed of ball in y-direction 
+* anything else you can find intresting, open for suggestions.
