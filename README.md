@@ -175,7 +175,7 @@ As of now, according to the problem statement a powerup(ball multiplier) is left
 
 ### can work on:
 * ball-multiplier powerup
-* exploding bricks can't have more than 1 group 
+* exploding bricks modifications
 * side collision with bricks (using trajectory of ball)
 * increment of speed of ball in y-direction 
 * anything else you can find intresting, open for suggestions.
