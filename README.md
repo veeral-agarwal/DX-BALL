@@ -1,5 +1,6 @@
 # DX-BALL
 # Terminal based game on OOPS concept
+- extended version [here](https://github.com/veeral-agarwal/DX-BALL_2.0)
 ## explanation
 
 an arcade game in Python3 (terminal-based), inspired from the old classic brick breaker similar to [this](https://www.youtube.com/watch?v=BXEk0IHzHOM). The player will be using a paddle with a bouncing ball to smash a wall of bricks and make high scores! The objective of the game is to break all the bricks as fast as possible and beat the highest score! You lose a life when the ball touches the ground below the paddle.
