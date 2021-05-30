@@ -1,5 +1,6 @@
 # DX-BALL
 # Terminal based game on OOPS concept
+Done as [DASS] Design and analysis of software systems' Assignment-2 | spring 2021
 - extended version [here](https://github.com/veeral-agarwal/DX-BALL_2.0)
 ## explanation
 
